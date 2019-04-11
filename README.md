@@ -1,0 +1,1 @@
+# Paralelizacion-del-Algoritmo-Householder-para-la-solucion-del-problema-de-minimos-cuadrados
