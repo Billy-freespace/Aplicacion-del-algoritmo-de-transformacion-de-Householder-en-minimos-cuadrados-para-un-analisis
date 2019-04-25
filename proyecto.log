@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.13)  14 APR 2019 22:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.13)  25 APR 2019 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Proyecto.tex
-(./Proyecto.tex
+**proyecto.tex
+(./proyecto.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -54,11 +54,6 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
@@ -81,7 +76,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 
 Package amsfonts Warning: The 'psamsfonts' option is obsolete in AMSFonts v3.
 
-\@emptytoks=\toks17
+\@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -96,7 +91,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks16
 \ex@=\dimen108
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -126,35 +121,35 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \dotsspace@=\muskip10
 \c@parentequation=\count98
 \dspbrk@lvl=\count99
-\tag@help=\toks19
+\tag@help=\toks17
 \row@=\count100
 \column@=\count101
 \maxfields@=\count102
-\andhelp@=\toks20
+\andhelp@=\toks18
 \eqnshift@=\dimen111
 \alignsep@=\dimen112
 \tagshift@=\dimen113
 \tagwidth@=\dimen114
 \totwidth@=\dimen115
 \lineht@=\dimen116
-\@envbody=\toks21
+\@envbody=\toks19
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks23
-\thm@bodyfont=\toks24
-\thm@headfont=\toks25
-\thm@notefont=\toks26
-\thm@headpunct=\toks27
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
 \thm@preskip=\skip46
 \thm@postskip=\skip47
 \thm@headsep=\skip48
-\dth@everypar=\toks28
+\dth@everypar=\toks26
 )
 (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
@@ -162,21 +157,43 @@ Package: placeins 2005/04/18  v 2.2
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count103
-\float@exts=\toks29
+\float@exts=\toks27
 \float@box=\box29
-\@float@everytoks=\toks30
+\@float@everytoks=\toks28
 \@floatcapt=\box30
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/varioref.sty
 Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
 \c@vrcnt=\count104
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\enitkv@toks@=\toks30
+\labelindent=\skip49
+\enit@outerparindent=\dimen117
+\enit@toks=\toks31
+\enit@inbox=\box31
+\enit@count@id=\count105
+\enitdp@description=\count106
+)
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen117
-\WF@size=\dimen118
-\c@WF@wrappedlines=\count105
-\WF@box=\box31
-\WF@everypar=\toks31
+\wrapoverhang=\dimen118
+\WF@size=\dimen119
+\c@WF@wrappedlines=\count107
+\WF@box=\box32
+\WF@everypar=\toks32
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
@@ -185,169 +202,187 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip49
-\RaggedLeftLeftskip=\skip50
-\RaggedRightLeftskip=\skip51
-\CenteringRightskip=\skip52
-\RaggedLeftRightskip=\skip53
-\RaggedRightRightskip=\skip54
-\CenteringParfillskip=\skip55
-\RaggedLeftParfillskip=\skip56
-\RaggedRightParfillskip=\skip57
-\JustifyingParfillskip=\skip58
-\CenteringParindent=\skip59
-\RaggedLeftParindent=\skip60
-\RaggedRightParindent=\skip61
-\JustifyingParindent=\skip62
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen119
-\ar@mcellbox=\box32
-\extrarowheight=\dimen120
-\NC@list=\toks32
-\extratabsurround=\skip63
-\backup@length=\skip64
-\ar@cellbox=\box33
+\col@sep=\dimen120
+\ar@mcellbox=\box33
+\extrarowheight=\dimen121
+\NC@list=\toks33
+\extratabsurround=\skip64
+\backup@length=\skip65
+\ar@cellbox=\box34
 )
-\TX@col@width=\dimen121
-\TX@old@table=\dimen122
-\TX@old@col=\dimen123
-\TX@target=\dimen124
-\TX@delta=\dimen125
-\TX@cols=\count106
-\TX@ftn=\toks33
+\TX@col@width=\dimen122
+\TX@old@table=\dimen123
+\TX@old@col=\dimen124
+\TX@target=\dimen125
+\TX@delta=\dimen126
+\TX@cols=\count108
+\TX@ftn=\toks34
 )
 (/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen126
-\c@nlinenum=\count107
-\TeXr@lab=\toks34
+\rotheadsize=\dimen127
+\c@nlinenum=\count109
+\TeXr@lab=\toks35
 )
-\c@definicion=\count108
-\c@teorema=\count109
-\c@prueba=\count110
-\c@prueba*=\count111
-\c@corolario=\count112
-\c@observacion=\count113
-\c@lema=\count114
-\c@ejemplo=\count115
-\c@solucion*=\count116
-\c@algoritmo=\count117
-\c@proposicion=\count118
+\c@definicion=\count110
+\c@teorema=\count111
+\c@prueba=\count112
+\c@prueba*=\count113
+\c@corolario=\count114
+\c@observacion=\count115
+\c@lema=\count116
+\c@ejemplo=\count117
+\c@solucion*=\count118
+\c@algoritmo=\count119
+\c@proposicion=\count120
 
-No file Proyecto.aux.
-\openout1 = `Proyecto.aux'.
+No file proyecto.aux.
+\openout1 = `proyecto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 49.
-LaTeX Font Info:    Try loading font information for U+msa on input line 55.
+LaTeX Info: Redefining \selectfont on input line 52.
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 55.
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--87
+Underfull \hbox (badness 10000) in paragraph at lines 80--90
 
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 88--92
+Underfull \hbox (badness 1226) in paragraph at lines 91--95
 \OT1/cmr/m/n/10 (in-di-ca-dor de la de-sigual-dad econ^^Somi-ca en una
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--92
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--111
+Underfull \hbox (badness 10000) in paragraph at lines 96--114
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]\OT1/cmr/bx/n/12 SISTEMAS LI-NEA-LES DE
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 1939) in paragraph at lines 136--136
+\OT1/cmr/bx/n/12 PRO-BLE-MA DE LOS M[]INI-
+ []
+
+[2] [3]
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
 []\OT1/cmr/bx/n/12 LAS TRANS-FOR-MA-CIO-NES
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 169--226
+Underfull \hbox (badness 1565) in paragraph at lines 446--475
 \OT1/cmr/m/n/10 dos de m^^S^^Pni-mos cua-dra-dos se han desa-rro-lla-do
  []
 
+[5] [6]
+Underfull \hbox (badness 1097) in paragraph at lines 550--553
+\OT1/cmr/bx/n/10 Teorema(III.1 \OT1/cmr/m/n/10 Si $\OML/cmm/b/it/10 H$ \OT1/cmr
+/m/n/10 es la ma-triz de-fi-ni-da en
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-Underfull \hbox (badness 6741) in paragraph at lines 362--363
+[7] [8]
+Underfull \hbox (badness 6741) in paragraph at lines 758--759
 []\OT1/cmr/m/n/9 I.K. Argy-ros, \OT1/cmr/m/it/9 Newton-like met-hods un-der mil
 d
  []
 
-[5
-
-] (./Proyecto.aux
+[9] (./proyecto.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2866 strings out of 494499
- 35300 string characters out of 6175516
- 124255 words of memory out of 5000000
- 6514 multiletter control sequences out of 15000+600000
- 7847 words of font info for 30 fonts, out of 8000000 for 9000
+ 3290 strings out of 494499
+ 41692 string characters out of 6175516
+ 128370 words of memory out of 5000000
+ 6916 multiletter control sequences out of 15000+600000
+ 13722 words of font info for 51 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  27i,10n,31p,223b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i9.pfb>
-Output written on Proyecto.pdf (5 pages, 146916 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy9.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cme
+xtra/cmmib5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmex
+tra/cmmib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmext
+ra/cmmib7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextr
+a/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on proyecto.pdf (9 pages, 255180 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 122 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
